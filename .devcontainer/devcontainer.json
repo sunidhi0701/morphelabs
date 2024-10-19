@@ -1,0 +1,4 @@
+{
+    "postCreateCommand": "git config --global codespaces.timeoutMinutes 240"
+  }
+  
